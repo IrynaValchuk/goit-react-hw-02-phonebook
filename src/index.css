@@ -17,9 +17,9 @@ code {
 
 :root {
   --bg-root: #e6f8d7;
+  --bg-gray: #7575753d;
   --color-white: #fff;
   --color-gray: #757575;
-  --bg-gray: #7575753d;
   --border-color-gray: #a5a5a7;
 }
 
